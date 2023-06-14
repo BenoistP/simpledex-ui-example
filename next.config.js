@@ -14,9 +14,7 @@ module.exports = withMDX({
   env: {
     IPFS: process.env.IPFS,
   },
-  future: {
-    webpack5: true,
-  },
+
   
 });
 
