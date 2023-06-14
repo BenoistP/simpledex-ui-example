@@ -1,3 +1,4 @@
+/** @jsxRuntime classic */
 /** @jsx jsx */
 import { Text, jsx, Button, Flex } from 'theme-ui';
 import useMaker from '../hooks/useMaker';

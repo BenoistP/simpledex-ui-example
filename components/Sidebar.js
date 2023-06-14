@@ -1,3 +1,4 @@
+/** @jsxRuntime classic */
 /** @jsx jsx */
 import { Fragment } from 'react';
 import { jsx, Flex, NavLink, Box } from 'theme-ui';

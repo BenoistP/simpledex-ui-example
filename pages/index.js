@@ -1,3 +1,4 @@
+/** @jsxRuntime classic */
 /** @jsx jsx */
 import { Container, jsx, Card, Heading, Text, Grid, Box, Flex } from 'theme-ui';
 import Orders from '../components/Orders';

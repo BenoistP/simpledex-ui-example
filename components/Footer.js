@@ -1,3 +1,4 @@
+/** @jsxRuntime classic */
 /** @jsx jsx */
 import { jsx, Flex, NavLink, Container } from 'theme-ui';
 import Link from 'next/link';

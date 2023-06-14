@@ -1,3 +1,4 @@
+/** @jsxRuntime classic */
 /** @jsx jsx */
 import { Container, jsx, Card, Grid } from 'theme-ui';
 import Sidebar from '../components/Sidebar';

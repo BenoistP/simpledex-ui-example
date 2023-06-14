@@ -1,3 +1,4 @@
+/** @jsxRuntime classic */
 /** @jsx jsx */
 import { useState } from 'react';
 import { Container, jsx, Link as ThemeLink, NavLink, Flex } from 'theme-ui';
